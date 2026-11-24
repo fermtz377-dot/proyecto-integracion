@@ -1,0 +1,6 @@
+Pon aquí tus 3 imágenes reales antes de subir a GitHub:
+- logo_negocio.png          (logo de la casa de cambio)
+- flujo_medallon_sql.png    (diagrama bronce -> plata -> oro)
+- diagrama_der_sqlserver.png (diagrama entidad-relación)
+
+Borra este archivo (LEEME.txt) una vez que hayas puesto las 3 imágenes.
